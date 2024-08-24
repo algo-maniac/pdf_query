@@ -1,5 +1,4 @@
 
-
 ---
 
 ## PDF Question Answering App
@@ -37,6 +36,10 @@ This project is a **Streamlit-based** web application that allows users to uploa
 
 3. **Accessing the App**: Once the Streamlit server is running, you will receive a URL to access the app in your browser. Follow the on-screen instructions to interact with the PDF.
 
+### Running in Google Colab
+
+To quickly get started, you can run the project directly in Google Colab using this [link](https://colab.research.google.com/drive/1KtSOvAjXO7jq9zoe18n7ypkYfSpw5ci6#scrollTo=VF6kOaJujSVB). This will allow you to use the app without needing to set up the environment locally.
+
 ### Installation
 
 1. Clone the repository:
@@ -65,4 +68,3 @@ This project is a **Streamlit-based** web application that allows users to uploa
    ```
 
 ---
-
